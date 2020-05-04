@@ -1,1 +1,1 @@
-# yorizascript
+# yorizas
